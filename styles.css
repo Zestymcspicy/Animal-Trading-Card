@@ -1,0 +1,40 @@
+.animal-picture{
+  width: 300px;
+  border-style: hidden;
+  padding-bottom: 10px;
+  }
+.whole-card {
+  border: 1px solid rgb(147, 161, 161);
+  box-shadow: 5px 5px rgb(147, 161, 161);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  width: 300px;
+  background-color: rgb(250,0,150);
+}
+
+h3{
+  font-family: "Skranji", cursive;
+}
+
+}
+.animal-description{
+  border: 5px blue;
+}
+.animal-fact{
+  font-style: italic;
+}
+.my-list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.lower-card{
+  border: 1px solid  rgb(147, 161, 161);
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(0, 250, 150);
+}
+span{
+  font-weight: bold;
+}
